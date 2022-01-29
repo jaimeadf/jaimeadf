@@ -37,8 +37,8 @@ I'm Jaime, I'm 16 years old and I love programming, math and physics.
     <a href="https://www.twitch.tv/marmotinhaa/">
         <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=twitch&logoColor=white&color=%239146FF&label=&message=marmotinhaa"/>
     </a>
-    <a href="https://www.linkedin.com/in/jaime-daniel-38273a1bb/">
-        <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Jaime%20Daniel"/>
+    <a href="https://www.linkedin.com/in/jaimeadf/">
+        <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Jaime%20Filho"/>
     </a>
 </p>
 
