@@ -1,6 +1,6 @@
 # Hi there! :milky_way:
 
-I'm Jaime, I'm 17 years old and I love programming, math and physics.
+I'm Jaime, I'm 18 years old and I love programming, math and physics.
 
 ### :space_invader: Technologies
 
